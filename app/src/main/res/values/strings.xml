@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project 0701 - Gps</string>
+    <string name="err_access">ACCESS_FINE_LOCATION is absolutely required</string>
+    <string name="err_gps_provider">Have no GPS_PROVIDER at device</string>
+    <string name="err_network_provider">Have no NETWORK_PROVIDER at device</string>
+    <string name="fmt_bad_row">%12s %12s %12s \n</string>
+    <string name="fmt_row">%12s %12.6f %12.6f \n</string>
+    <string name="fmt_timestamp" translatable="false">HH:mm:ss</string>
+    <string name="fmt_title">%12s %12s %12s \n</string>
+    <string name="str_no_data">---------</string>
+    <string name="tbl_title_time">Время</string>
+    <string name="title_latitude">Latitude</string>
+    <string name="title_longitude">Longitude</string>
+</resources>
